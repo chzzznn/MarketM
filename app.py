@@ -126,7 +126,7 @@ with col1:
 with col2:
     if st.button("🔄 Reset Game"):
         st.session_state.clear()
-        st.experimental_rerun()
+        st.rerun()
 
 # --- Charts ---
 st.subheader("📊 Asset Price History")
