@@ -1,0 +1,800 @@
+Round,1,Asset,TechCorp,Price,1
+Round,1,Asset,EcoPower,Price,282.0
+Round,1,Asset,GovBond 10Y,Price,1
+Round,1,Asset,Gold Futures,Price,289.0
+Round,1,Asset,BitNova,Price,1
+Round,1,Player,Player1,Value,444.5,Cash,443.5
+Round,1,Player,Player2,Value,500,Cash,500
+Round,1,Player,Player3,Value,500,Cash,500
+Round,1,Player,Player4,Value,500,Cash,500
+Round,1,Player,MarketMaker,Value,9999.0,Cash,9999.0
+Round,2,Asset,TechCorp,Price,401.0
+Round,2,Asset,EcoPower,Price,426.0
+Round,2,Asset,GovBond 10Y,Price,153.0
+Round,2,Asset,Gold Futures,Price,501.5
+Round,2,Asset,BitNova,Price,1
+Round,2,Player,Player1,Value,659.5,Cash,157.0
+Round,2,Player,Player2,Value,500,Cash,500
+Round,2,Player,Player3,Value,500,Cash,500
+Round,2,Player,Player4,Value,500,Cash,500
+Round,2,Player,MarketMaker,Value,10035.25,Cash,10035.25
+Round,3,Asset,TechCorp,Price,801.0
+Round,3,Asset,EcoPower,Price,138.0
+Round,3,Asset,GovBond 10Y,Price,1
+Round,3,Asset,Gold Futures,Price,756.5
+Round,3,Asset,BitNova,Price,792.9999999999999
+Round,3,Player,Player1,Value,1706.5,Cash,157.0
+Round,3,Player,Player2,Value,223.5,Cash,85.5
+Round,3,Player,Player3,Value,500,Cash,500
+Round,3,Player,Player4,Value,500,Cash,500
+Round,3,Player,MarketMaker,Value,10035.25,Cash,10035.25
+Round,4,Asset,TechCorp,Price,2001.0
+Round,4,Asset,EcoPower,Price,1
+Round,4,Asset,GovBond 10Y,Price,229.0
+Round,4,Asset,Gold Futures,Price,926.5
+Round,4,Asset,BitNova,Price,572.9999999999999
+Round,4,Player,Player1,Value,1656.5,Cash,157.0
+Round,4,Player,Player2,Value,86.5,Cash,85.5
+Round,4,Player,Player3,Value,500,Cash,500
+Round,4,Player,Player4,Value,500,Cash,500
+Round,4,Player,MarketMaker,Value,10430.5,Cash,9504.0
+Round,5,Asset,TechCorp,Price,2301.0
+Round,5,Asset,EcoPower,Price,1
+Round,5,Asset,GovBond 10Y,Price,1
+Round,5,Asset,Gold Futures,Price,756.5
+Round,5,Asset,BitNova,Price,132.9999999999999
+Round,5,Player,Player1,Value,1046.5,Cash,157.0
+Round,5,Player,Player2,Value,86.5,Cash,85.5
+Round,5,Player,Player3,Value,286.5,Cash,285.5
+Round,5,Player,Player4,Value,220.50000000000006,Cash,219.50000000000006
+Round,5,Player,MarketMaker,Value,11411.5,Cash,8354.0
+Round,6,Asset,TechCorp,Price,1801.0
+Round,6,Asset,EcoPower,Price,241.00000000000003
+Round,6,Asset,GovBond 10Y,Price,1
+Round,6,Asset,Gold Futures,Price,926.5
+Round,6,Asset,BitNova,Price,528.9999999999998
+Round,6,Player,Player1,Value,1612.4999999999998,Cash,157.0
+Round,6,Player,Player2,Value,326.5,Cash,85.5
+Round,6,Player,Player3,Value,526.5,Cash,285.5
+Round,6,Player,Player4,Value,460.5000000000001,Cash,219.50000000000006
+Round,6,Player,MarketMaker,Value,11982.5,Cash,7454.0
+Round,7,Asset,TechCorp,Price,2041.0
+Round,7,Asset,EcoPower,Price,529.0
+Round,7,Asset,GovBond 10Y,Price,153.0
+Round,7,Asset,Gold Futures,Price,1324.3
+Round,7,Asset,BitNova,Price,616.9999999999998
+Round,7,Player,Player1,Value,2098.2999999999997,Cash,157.0
+Round,7,Player,Player2,Value,614.5,Cash,85.5
+Round,7,Player,Player3,Value,814.5,Cash,285.5
+Round,7,Player,Player4,Value,748.5,Cash,219.50000000000006
+Round,7,Player,MarketMaker,Value,13417.7,Cash,6158.1
+Round,8,Asset,TechCorp,Price,2541.0
+Round,8,Asset,EcoPower,Price,169.0
+Round,8,Asset,GovBond 10Y,Price,229.0
+Round,8,Asset,Gold Futures,Price,1579.3
+Round,8,Asset,BitNova,Price,880.9999999999998
+Round,8,Player,Player1,Value,2617.2999999999997,Cash,157.0
+Round,8,Player,Player2,Value,254.5,Cash,85.5
+Round,8,Player,Player3,Value,454.5,Cash,285.5
+Round,8,Player,Player4,Value,388.50000000000006,Cash,219.50000000000006
+Round,8,Player,MarketMaker,Value,14567.7,Cash,6158.1
+Round,9,Asset,TechCorp,Price,2141.0
+Round,9,Asset,EcoPower,Price,514.5999999999999
+Round,9,Asset,GovBond 10Y,Price,310.06666666666666
+Round,9,Asset,Gold Futures,Price,1778.1999999999998
+Round,9,Asset,BitNova,Price,1514.6
+Round,9,Player,Player1,Value,3449.7999999999997,Cash,157.0
+Round,9,Player,Player2,Value,600.0999999999999,Cash,85.5
+Round,9,Player,Player3,Value,800.0999999999999,Cash,285.5
+Round,9,Player,Player4,Value,734.0999999999999,Cash,219.50000000000006
+Round,9,Player,MarketMaker,Value,15498.1,Cash,5004.1
+Round,10,Asset,TechCorp,Price,2641.0
+Round,10,Asset,EcoPower,Price,154.5999999999999
+Round,10,Asset,GovBond 10Y,Price,120.06666666666666
+Round,10,Asset,Gold Futures,Price,1523.1999999999998
+Round,10,Asset,BitNova,Price,1074.6
+Round,10,Player,Player1,Value,2754.7999999999997,Cash,157.0
+Round,10,Player,Player2,Value,240.0999999999999,Cash,85.5
+Round,10,Player,Player3,Value,440.0999999999999,Cash,285.5
+Round,10,Player,Player4,Value,374.09999999999997,Cash,219.50000000000006
+Round,10,Player,MarketMaker,Value,16419.1,Cash,4220.5
+Round,11,Asset,TechCorp,Price,1841.0
+Round,11,Asset,EcoPower,Price,1
+Round,11,Asset,GovBond 10Y,Price,196.06666666666666
+Round,11,Asset,Gold Futures,Price,1268.1999999999998
+Round,11,Asset,BitNova,Price,898.5999999999999
+Round,11,Player,Player1,Value,2323.7999999999997,Cash,157.0
+Round,11,Player,Player2,Value,86.5,Cash,85.5
+Round,11,Player,Player3,Value,286.5,Cash,285.5
+Round,11,Player,Player4,Value,220.50000000000006,Cash,219.50000000000006
+Round,11,Player,MarketMaker,Value,13747.300000000001,Cash,3520.1000000000004
+Round,12,Asset,TechCorp,Price,841.0
+Round,12,Asset,EcoPower,Price,301.0
+Round,12,Asset,GovBond 10Y,Price,310.06666666666666
+Round,12,Asset,Gold Futures,Price,1480.6999999999998
+Round,12,Asset,BitNova,Price,238.5999999999999
+Round,12,Player,Player1,Value,1876.2999999999997,Cash,157.0
+Round,12,Player,Player2,Value,386.5,Cash,85.5
+Round,12,Player,Player3,Value,586.5,Cash,285.5
+Round,12,Player,Player4,Value,520.5,Cash,219.50000000000006
+Round,12,Player,MarketMaker,Value,11291.183333333334,Cash,3146.783333333334
+Round,13,Asset,TechCorp,Price,591.0
+Round,13,Asset,EcoPower,Price,481.0
+Round,13,Asset,GovBond 10Y,Price,360.73333333333335
+Round,13,Asset,Gold Futures,Price,1268.1999999999998
+Round,13,Asset,BitNova,Price,1
+Round,13,Player,Player1,Value,1426.1999999999998,Cash,157.0
+Round,13,Player,Player2,Value,566.5,Cash,85.5
+Round,13,Player,Player3,Value,766.5,Cash,285.5
+Round,13,Player,Player4,Value,700.5,Cash,219.50000000000006
+Round,13,Player,MarketMaker,Value,10039.583333333334,Cash,2711.783333333334
+Round,14,Asset,TechCorp,Price,857.6666666666666
+Round,14,Asset,EcoPower,Price,121.0
+Round,14,Asset,GovBond 10Y,Price,550.7333333333333
+Round,14,Asset,Gold Futures,Price,1472.1999999999998
+Round,14,Asset,BitNova,Price,441.0
+Round,14,Player,Player1,Value,2070.2,Cash,157.0
+Round,14,Player,Player2,Value,206.5,Cash,85.5
+Round,14,Player,Player3,Value,406.5,Cash,285.5
+Round,14,Player,Player4,Value,340.50000000000006,Cash,219.50000000000006
+Round,14,Player,MarketMaker,Value,11781.45,Cash,2206.916666666667
+Round,15,Asset,TechCorp,Price,440.99999999999994
+Round,15,Asset,EcoPower,Price,1
+Round,15,Asset,GovBond 10Y,Price,614.0666666666667
+Round,15,Asset,Gold Futures,Price,1574.1999999999998
+Round,15,Asset,BitNova,Price,1
+Round,15,Player,Player1,Value,1732.1999999999998,Cash,157.0
+Round,15,Player,Player2,Value,86.5,Cash,85.5
+Round,15,Player,Player3,Value,286.5,Cash,285.5
+Round,15,Player,Player4,Value,220.50000000000006,Cash,219.50000000000006
+Round,15,Player,MarketMaker,Value,10173.783333333335,Cash,1936.916666666667
+Round,16,Asset,TechCorp,Price,240.99999999999997
+Round,16,Asset,EcoPower,Price,1
+Round,16,Asset,GovBond 10Y,Price,538.0666666666667
+Round,16,Asset,Gold Futures,Price,1744.1999999999998
+Round,16,Asset,BitNova,Price,1
+Round,16,Player,Player1,Value,1029.6,Cash,1028.6
+Round,16,Player,Player2,Value,86.5,Cash,85.5
+Round,16,Player,Player3,Value,325.5,Cash,83.5
+Round,16,Player,Player4,Value,220.50000000000006,Cash,219.50000000000006
+Round,16,Player,MarketMaker,Value,11311.916666666666,Cash,788.7833333333338
+Round,17,Asset,TechCorp,Price,454.3333333333333
+Round,17,Asset,EcoPower,Price,231.40000000000003
+Round,17,Asset,GovBond 10Y,Price,416.4666666666667
+Round,17,Asset,Gold Futures,Price,1478.9999999999998
+Round,17,Asset,BitNova,Price,1
+Round,17,Player,Player1,Value,1029.6,Cash,1028.6
+Round,17,Player,Player2,Value,316.90000000000003,Cash,85.5
+Round,17,Player,Player3,Value,769.2333333333333,Cash,83.5
+Round,17,Player,Player4,Value,450.9000000000001,Cash,219.50000000000006
+Round,17,Player,MarketMaker,Value,11136.983333333332,Cash,481.5166666666672
+Round,18,Asset,TechCorp,Price,954.3333333333333
+Round,18,Asset,EcoPower,Price,1
+Round,18,Asset,GovBond 10Y,Price,289.80000000000007
+Round,18,Asset,Gold Futures,Price,1393.9999999999998
+Round,18,Asset,BitNova,Price,792.9999999999999
+Round,18,Player,Player1,Value,2433.0666666666666,Cash,685.7333333333332
+Round,18,Player,Player2,Value,86.5,Cash,85.5
+Round,18,Player,Player3,Value,1038.8333333333333,Cash,83.5
+Round,18,Player,Player4,Value,220.50000000000006,Cash,219.50000000000006
+Round,18,Player,MarketMaker,Value,13594.316666666664,Cash,491.5166666666672
+Round,19,Asset,TechCorp,Price,1354.3333333333333
+Round,19,Asset,EcoPower,Price,1
+Round,19,Asset,GovBond 10Y,Price,131.46666666666673
+Round,19,Asset,Gold Futures,Price,1223.9999999999998
+Round,19,Asset,BitNova,Price,242.9999999999999
+Round,19,Player,Player1,Value,2283.0666666666666,Cash,685.7333333333332
+Round,19,Player,Player2,Value,86.5,Cash,85.5
+Round,19,Player,Player3,Value,761.1666666666666,Cash,760.1666666666666
+Round,19,Player,Player4,Value,13.766666666666708,Cash,11.766666666666708
+Round,19,Player,MarketMaker,Value,12525.983333333334,Cash,501.5166666666672
+Round,20,Asset,TechCorp,Price,354.33333333333326
+Round,20,Asset,EcoPower,Price,1
+Round,20,Asset,GovBond 10Y,Price,1
+Round,20,Asset,Gold Futures,Price,1427.9999999999998
+Round,20,Asset,BitNova,Price,1
+Round,20,Player,Player1,Value,1041.0666666666666,Cash,685.7333333333332
+Round,20,Player,Player2,Value,86.5,Cash,85.5
+Round,20,Player,Player3,Value,761.1666666666666,Cash,760.1666666666666
+Round,20,Player,Player4,Value,13.766666666666708,Cash,11.766666666666708
+Round,20,Player,MarketMaker,Value,10145.516666666665,Cash,511.5166666666672
+Round,1,Asset,TechCorp,Price,400.0
+Round,1,Asset,EcoPower,Price,378.0
+Round,1,Asset,GovBond 10Y,Price,1
+Round,1,Asset,Gold Futures,Price,237.99999999999997
+Round,1,Asset,BitNova,Price,638.0000000000001
+Round,1,Player,Player1,Value,500,Cash,500
+Round,1,Player,Player2,Value,500,Cash,500
+Round,1,Player,Player3,Value,500,Cash,500
+Round,1,Player,Player4,Value,500,Cash,500
+Round,1,Player,MarketMaker,Value,9999.0,Cash,9999.0
+Round,2,Asset,TechCorp,Price,220.00000000000003
+Round,2,Asset,EcoPower,Price,572.4
+Round,2,Asset,GovBond 10Y,Price,137.8
+Round,2,Asset,Gold Futures,Price,1
+Round,2,Asset,BitNova,Price,162.80000000000007
+Round,2,Player,Player1,Value,450.1,Cash,230.10000000000002
+Round,2,Player,Player2,Value,500,Cash,500
+Round,2,Player,Player3,Value,437.6,Cash,217.59999999999997
+Round,2,Player,Player4,Value,409.0,Cash,189.0
+Round,2,Player,MarketMaker,Value,9999.0,Cash,9999.0
+Round,3,Asset,TechCorp,Price,720.0
+Round,3,Asset,EcoPower,Price,932.4
+Round,3,Asset,GovBond 10Y,Price,264.4666666666667
+Round,3,Asset,Gold Futures,Price,153.99999999999997
+Round,3,Asset,BitNova,Price,712.8000000000001
+Round,3,Player,Player1,Value,699.1,Cash,699.1
+Round,3,Player,Player2,Value,500,Cash,500
+Round,3,Player,Player3,Value,937.5999999999999,Cash,217.59999999999997
+Round,3,Player,Player4,Value,909.0,Cash,189.0
+Round,3,Player,MarketMaker,Value,10497.4,Cash,9064.6
+Round,4,Asset,TechCorp,Price,520.0
+Round,4,Asset,EcoPower,Price,716.4
+Round,4,Asset,GovBond 10Y,Price,454.4666666666667
+Round,4,Asset,Gold Futures,Price,366.5
+Round,4,Asset,BitNova,Price,52.80000000000007
+Round,4,Player,Player1,Value,699.1,Cash,699.1
+Round,4,Player,Player2,Value,500,Cash,500
+Round,4,Player,Player3,Value,737.5999999999999,Cash,217.59999999999997
+Round,4,Player,Player4,Value,709.0,Cash,189.0
+Round,4,Player,MarketMaker,Value,9637.4,Cash,9064.6
+Round,5,Asset,TechCorp,Price,320.0
+Round,5,Asset,EcoPower,Price,428.4
+Round,5,Asset,GovBond 10Y,Price,568.4666666666667
+Round,5,Asset,Gold Futures,Price,468.5
+Round,5,Asset,BitNova,Price,1
+Round,5,Player,Player1,Value,699.1,Cash,699.1
+Round,5,Player,Player2,Value,500,Cash,500
+Round,5,Player,Player3,Value,537.5999999999999,Cash,217.59999999999997
+Round,5,Player,Player4,Value,509.0,Cash,189.0
+Round,5,Player,MarketMaker,Value,9385.6,Cash,9064.6
+Round,6,Asset,TechCorp,Price,19.999999999999943
+Round,6,Asset,EcoPower,Price,169.2
+Round,6,Asset,GovBond 10Y,Price,682.4666666666667
+Round,6,Asset,Gold Futures,Price,723.5
+Round,6,Asset,BitNova,Price,238.60000000000005
+Round,6,Player,Player1,Value,1068.05,Cash,344.55
+Round,6,Player,Player2,Value,829.25,Cash,105.75
+Round,6,Player,Player3,Value,237.5999999999999,Cash,217.59999999999997
+Round,6,Player,Player4,Value,208.99999999999994,Cash,189.0
+Round,6,Player,MarketMaker,Value,9323.2,Cash,9064.6
+Round,7,Asset,TechCorp,Price,419.9999999999999
+Round,7,Asset,EcoPower,Price,457.2
+Round,7,Asset,GovBond 10Y,Price,834.4666666666667
+Round,7,Asset,Gold Futures,Price,468.5
+Round,7,Asset,BitNova,Price,458.6
+Round,7,Player,Player1,Value,813.05,Cash,344.55
+Round,7,Player,Player2,Value,574.25,Cash,105.75
+Round,7,Player,Player3,Value,637.5999999999999,Cash,217.59999999999997
+Round,7,Player,Player4,Value,608.9999999999999,Cash,189.0
+Round,7,Player,MarketMaker,Value,9943.2,Cash,9064.6
+Round,8,Asset,TechCorp,Price,86.66666666666657
+Round,8,Asset,EcoPower,Price,889.2
+Round,8,Asset,GovBond 10Y,Price,783.8000000000001
+Round,8,Asset,Gold Futures,Price,341.0
+Round,8,Asset,BitNova,Price,238.60000000000002
+Round,8,Player,Player1,Value,685.55,Cash,344.55
+Round,8,Player,Player2,Value,446.75,Cash,105.75
+Round,8,Player,Player3,Value,304.26666666666654,Cash,217.59999999999997
+Round,8,Player,Player4,Value,275.6666666666666,Cash,189.0
+Round,8,Player,MarketMaker,Value,9389.866666666667,Cash,9064.6
+Round,9,Asset,TechCorp,Price,1
+Round,9,Asset,EcoPower,Price,1177.2
+Round,9,Asset,GovBond 10Y,Price,910.4666666666667
+Round,9,Asset,Gold Futures,Price,35.00000000000006
+Round,9,Asset,BitNova,Price,1
+Round,9,Player,Player1,Value,379.55000000000007,Cash,344.55
+Round,9,Player,Player2,Value,140.75000000000006,Cash,105.75
+Round,9,Player,Player3,Value,218.59999999999997,Cash,217.59999999999997
+Round,9,Player,Player4,Value,190.0,Cash,189.0
+Round,9,Player,MarketMaker,Value,10012.466666666667,Cash,8833.266666666666
+Round,10,Asset,TechCorp,Price,301.00000000000006
+Round,10,Asset,EcoPower,Price,1393.2
+Round,10,Asset,GovBond 10Y,Price,1052.9666666666667
+Round,10,Asset,Gold Futures,Price,1
+Round,10,Asset,BitNova,Price,476.20000000000005
+Round,10,Player,Player1,Value,544.3000000000001,Cash,544.3000000000001
+Round,10,Player,Player2,Value,292.75,Cash,292.75
+Round,10,Player,Player3,Value,518.6,Cash,217.59999999999997
+Round,10,Player,Player4,Value,490.00000000000006,Cash,189.0
+Round,10,Player,MarketMaker,Value,11853.0,Cash,7234.4333333333325
+Round,11,Asset,TechCorp,Price,901.0
+Round,11,Asset,EcoPower,Price,1249.2
+Round,11,Asset,GovBond 10Y,Price,894.6333333333333
+Round,11,Asset,Gold Futures,Price,1
+Round,11,Asset,BitNova,Price,1026.2
+Round,11,Player,Player1,Value,544.3000000000001,Cash,544.3000000000001
+Round,11,Player,Player2,Value,292.75,Cash,292.75
+Round,11,Player,Player3,Value,1118.6,Cash,217.59999999999997
+Round,11,Player,Player4,Value,1090.0,Cash,189.0
+Round,11,Player,MarketMaker,Value,12870.766666666665,Cash,6522.333333333332
+Round,12,Asset,TechCorp,Price,484.3333333333333
+Round,12,Asset,EcoPower,Price,1537.2
+Round,12,Asset,GovBond 10Y,Price,666.6333333333333
+Round,12,Asset,Gold Futures,Price,1
+Round,12,Asset,BitNova,Price,630.2
+Round,12,Player,Player1,Value,544.3000000000001,Cash,544.3000000000001
+Round,12,Player,Player2,Value,292.75,Cash,292.75
+Round,12,Player,Player3,Value,701.9333333333333,Cash,217.59999999999997
+Round,12,Player,Player4,Value,673.3333333333333,Cash,189.0
+Round,12,Player,MarketMaker,Value,12020.099999999999,Cash,6532.333333333332
+Round,13,Asset,TechCorp,Price,984.3333333333333
+Round,13,Asset,EcoPower,Price,1681.2
+Round,13,Asset,GovBond 10Y,Price,780.6333333333333
+Round,13,Asset,Gold Futures,Price,1
+Round,13,Asset,BitNova,Price,894.2
+Round,13,Player,Player1,Value,544.3000000000001,Cash,544.3000000000001
+Round,13,Player,Player2,Value,292.75,Cash,292.75
+Round,13,Player,Player3,Value,950.9333333333332,Cash,950.9333333333332
+Round,13,Player,Player4,Value,1173.3333333333333,Cash,189.0
+Round,13,Player,MarketMaker,Value,13917.033333333333,Cash,5120.733333333333
+Round,14,Asset,TechCorp,Price,1234.3333333333333
+Round,14,Asset,EcoPower,Price,1321.2
+Round,14,Asset,GovBond 10Y,Price,704.6333333333333
+Round,14,Asset,Gold Futures,Price,306.99999999999994
+Round,14,Asset,BitNova,Price,1334.2
+Round,14,Player,Player1,Value,544.3000000000001,Cash,544.3000000000001
+Round,14,Player,Player2,Value,292.75,Cash,292.75
+Round,14,Player,Player3,Value,978.0499999999998,Cash,273.4166666666665
+Round,14,Player,Player4,Value,1423.3333333333333,Cash,189.0
+Round,14,Player,MarketMaker,Value,15535.916666666664,Cash,5808.249999999999
+Round,15,Asset,TechCorp,Price,934.3333333333333
+Round,15,Asset,EcoPower,Price,1033.2
+Round,15,Asset,GovBond 10Y,Price,476.6333333333333
+Round,15,Asset,Gold Futures,Price,442.99999999999994
+Round,15,Asset,BitNova,Price,1884.2
+Round,15,Player,Player1,Value,544.3000000000001,Cash,544.3000000000001
+Round,15,Player,Player2,Value,292.75,Cash,292.75
+Round,15,Player,Player3,Value,750.0499999999998,Cash,273.4166666666665
+Round,15,Player,Player4,Value,1123.3333333333333,Cash,189.0
+Round,15,Player,MarketMaker,Value,16291.916666666666,Cash,5818.25
+Round,16,Asset,TechCorp,Price,1474.3333333333333
+Round,16,Asset,EcoPower,Price,763.2
+Round,16,Asset,GovBond 10Y,Price,391.1333333333333
+Round,16,Asset,Gold Futures,Price,315.49999999999994
+Round,16,Asset,BitNova,Price,2280.2
+Round,16,Player,Player1,Value,544.3000000000001,Cash,544.3000000000001
+Round,16,Player,Player2,Value,292.75,Cash,292.75
+Round,16,Player,Player3,Value,664.5499999999998,Cash,273.4166666666665
+Round,16,Player,Player4,Value,1663.3333333333333,Cash,189.0
+Round,16,Player,MarketMaker,Value,17774.916666666664,Cash,5828.25
+Round,17,Asset,TechCorp,Price,1807.6666666666665
+Round,17,Asset,EcoPower,Price,619.2
+Round,17,Asset,GovBond 10Y,Price,315.1333333333333
+Round,17,Asset,Gold Futures,Price,570.5
+Round,17,Asset,BitNova,Price,2830.2
+Round,17,Player,Player1,Value,544.3000000000001,Cash,544.3000000000001
+Round,17,Player,Player2,Value,292.75,Cash,292.75
+Round,17,Player,Player3,Value,588.5499999999998,Cash,273.4166666666665
+Round,17,Player,Player4,Value,1996.6666666666665,Cash,189.0
+Round,17,Player,MarketMaker,Value,21032.85,Cash,4739.85
+Round,18,Asset,TechCorp,Price,2074.333333333333
+Round,18,Asset,EcoPower,Price,331.20000000000005
+Round,18,Asset,GovBond 10Y,Price,163.13333333333333
+Round,18,Asset,Gold Futures,Price,434.5
+Round,18,Asset,BitNova,Price,3622.2
+Round,18,Player,Player1,Value,544.3000000000001,Cash,544.3000000000001
+Round,18,Player,Player2,Value,292.75,Cash,292.75
+Round,18,Player,Player3,Value,436.54999999999984,Cash,273.4166666666665
+Round,18,Player,Player4,Value,2263.333333333333,Cash,189.0
+Round,18,Player,MarketMaker,Value,23370.85,Cash,4749.85
+Round,19,Asset,TechCorp,Price,2474.333333333333
+Round,19,Asset,EcoPower,Price,43.200000000000045
+Round,19,Asset,GovBond 10Y,Price,102.33333333333331
+Round,19,Asset,Gold Futures,Price,766.0
+Round,19,Asset,BitNova,Price,3340.6
+Round,19,Player,Player1,Value,544.3000000000001,Cash,544.3000000000001
+Round,19,Player,Player2,Value,292.75,Cash,292.75
+Round,19,Player,Player3,Value,375.74999999999983,Cash,273.4166666666665
+Round,19,Player,Player4,Value,2663.333333333333,Cash,189.0
+Round,19,Player,MarketMaker,Value,24125.483333333334,Cash,4296.283333333334
+Round,20,Asset,TechCorp,Price,2807.6666666666665
+Round,20,Asset,EcoPower,Price,1
+Round,20,Asset,GovBond 10Y,Price,216.33333333333331
+Round,20,Asset,Gold Futures,Price,936.0
+Round,20,Asset,BitNova,Price,4000.6
+Round,20,Player,Player1,Value,544.3000000000001,Cash,544.3000000000001
+Round,20,Player,Player2,Value,292.75,Cash,292.75
+Round,20,Player,Player3,Value,489.74999999999983,Cash,273.4166666666665
+Round,20,Player,Player4,Value,2996.6666666666665,Cash,189.0
+Round,20,Player,MarketMaker,Value,28894.75,Cash,2852.2833333333338
+Round,1,Asset,TechCorp,Price,433.3333333333333
+Round,1,Asset,EcoPower,Price,450.0
+Round,1,Asset,GovBond 10Y,Price,1
+Round,1,Asset,Gold Futures,Price,255.0
+Round,1,Asset,BitNova,Price,1
+Round,1,Player,Player1,Value,500,Cash,500
+Round,1,Player,Player2,Value,500,Cash,500
+Round,1,Player,Player3,Value,500,Cash,500
+Round,1,Player,Player4,Value,500,Cash,500
+Round,1,Player,MarketMaker,Value,9999.0,Cash,9999.0
+Round,2,Asset,TechCorp,Price,208.33333333333331
+Round,2,Asset,EcoPower,Price,558.0
+Round,2,Asset,GovBond 10Y,Price,103.60000000000001
+Round,2,Asset,Gold Futures,Price,467.5
+Round,2,Asset,BitNova,Price,1
+Round,2,Player,Player1,Value,500,Cash,500
+Round,2,Player,Player2,Value,500,Cash,500
+Round,2,Player,Player3,Value,727.8333333333334,Cash,169.83333333333337
+Round,2,Player,Player4,Value,500,Cash,500
+Round,2,Player,MarketMaker,Value,9999.0,Cash,9999.0
+Round,3,Asset,TechCorp,Price,608.3333333333333
+Round,3,Asset,EcoPower,Price,318.0
+Round,3,Asset,GovBond 10Y,Price,1
+Round,3,Asset,Gold Futures,Price,637.5
+Round,3,Asset,BitNova,Price,1
+Round,3,Player,Player1,Value,500,Cash,500
+Round,3,Player,Player2,Value,500,Cash,500
+Round,3,Player,Player3,Value,487.83333333333337,Cash,169.83333333333337
+Round,3,Player,Player4,Value,743.75,Cash,106.25
+Round,3,Player,MarketMaker,Value,9999.0,Cash,9999.0
+Round,4,Asset,TechCorp,Price,158.33333333333326
+Round,4,Asset,EcoPower,Price,48.0
+Round,4,Asset,GovBond 10Y,Price,1
+Round,4,Asset,Gold Futures,Price,255.0
+Round,4,Asset,BitNova,Price,1
+Round,4,Player,Player1,Value,500,Cash,500
+Round,4,Player,Player2,Value,500,Cash,500
+Round,4,Player,Player3,Value,343.83333333333337,Cash,40.83333333333337
+Round,4,Player,Player4,Value,361.25,Cash,106.25
+Round,4,Player,MarketMaker,Value,9999.0,Cash,9999.0
+Round,5,Asset,TechCorp,Price,491.66666666666663
+Round,5,Asset,EcoPower,Price,336.0
+Round,5,Asset,GovBond 10Y,Price,153.0
+Round,5,Asset,Gold Futures,Price,1
+Round,5,Asset,BitNova,Price,529.0000000000001
+Round,5,Player,Player1,Value,500,Cash,500
+Round,5,Player,Player2,Value,500,Cash,500
+Round,5,Player,Player3,Value,336.33333333333337,Cash,335.33333333333337
+Round,5,Player,Player4,Value,107.25,Cash,106.25
+Round,5,Player,MarketMaker,Value,10040.5,Cash,9704.5
+Round,6,Asset,TechCorp,Price,291.66666666666663
+Round,6,Asset,EcoPower,Price,144.0
+Round,6,Asset,GovBond 10Y,Price,115.0
+Round,6,Asset,Gold Futures,Price,171.0
+Round,6,Asset,BitNova,Price,1057.0000000000002
+Round,6,Player,Player1,Value,500,Cash,500
+Round,6,Player,Player2,Value,629.0,Cash,337.33333333333337
+Round,6,Player,Player3,Value,506.33333333333337,Cash,335.33333333333337
+Round,6,Player,Player4,Value,277.25,Cash,106.25
+Round,6,Player,MarketMaker,Value,10394.833333333332,Cash,9193.833333333332
+Round,7,Asset,TechCorp,Price,1
+Round,7,Asset,EcoPower,Price,288.0
+Round,7,Asset,GovBond 10Y,Price,1
+Round,7,Asset,Gold Futures,Price,307.0
+Round,7,Asset,BitNova,Price,617.0000000000002
+Round,7,Player,Player1,Value,500,Cash,500
+Round,7,Player,Player2,Value,338.33333333333337,Cash,337.33333333333337
+Round,7,Player,Player3,Value,642.3333333333334,Cash,335.33333333333337
+Round,7,Player,Player4,Value,413.25,Cash,106.25
+Round,7,Player,MarketMaker,Value,10098.833333333332,Cash,9193.833333333332
+Round,8,Asset,TechCorp,Price,1
+Round,8,Asset,EcoPower,Price,18.0
+Round,8,Asset,GovBond 10Y,Price,137.79999999999998
+Round,8,Asset,Gold Futures,Price,1
+Round,8,Asset,BitNova,Price,300.2000000000002
+Round,8,Player,Player1,Value,500,Cash,500
+Round,8,Player,Player2,Value,338.33333333333337,Cash,337.33333333333337
+Round,8,Player,Player3,Value,46.33333333333337,Cash,26.33333333333337
+Round,8,Player,Player4,Value,107.25,Cash,106.25
+Round,8,Player,MarketMaker,Value,9648.033333333333,Cash,9347.833333333332
+Round,9,Asset,TechCorp,Price,1
+Round,9,Asset,EcoPower,Price,378.0
+Round,9,Asset,GovBond 10Y,Price,289.79999999999995
+Round,9,Asset,Gold Futures,Price,213.5
+Round,9,Asset,BitNova,Price,652.2000000000003
+Round,9,Player,Player1,Value,500,Cash,500
+Round,9,Player,Player2,Value,338.33333333333337,Cash,337.33333333333337
+Round,9,Player,Player3,Value,831.3333333333334,Cash,26.33333333333337
+Round,9,Player,Player4,Value,319.75,Cash,106.25
+Round,9,Player,MarketMaker,Value,10326.633333333331,Cash,9022.233333333332
+Round,10,Asset,TechCorp,Price,1
+Round,10,Asset,EcoPower,Price,118.79999999999995
+Round,10,Asset,GovBond 10Y,Price,84.59999999999994
+Round,10,Asset,Gold Futures,Price,43.5
+Round,10,Asset,BitNova,Price,295.8000000000003
+Round,10,Player,Player1,Value,500,Cash,500
+Round,10,Player,Player2,Value,338.33333333333337,Cash,337.33333333333337
+Round,10,Player,Player3,Value,232.13333333333333,Cash,26.33333333333337
+Round,10,Player,Player4,Value,149.75,Cash,106.25
+Round,10,Player,MarketMaker,Value,9613.83333333333,Cash,9022.23333333333
+Round,11,Asset,TechCorp,Price,401.0
+Round,11,Asset,EcoPower,Price,310.79999999999995
+Round,11,Asset,GovBond 10Y,Price,1
+Round,11,Asset,Gold Futures,Price,1
+Round,11,Asset,BitNova,Price,1
+Round,11,Player,Player1,Value,500,Cash,500
+Round,11,Player,Player2,Value,738.3333333333334,Cash,337.33333333333337
+Round,11,Player,Player3,Value,158.73333333333335,Cash,156.73333333333335
+Round,11,Player,Player4,Value,107.25,Cash,106.25
+Round,11,Player,MarketMaker,Value,9118.38333333333,Cash,8804.58333333333
+Round,12,Asset,TechCorp,Price,134.33333333333337
+Round,12,Asset,EcoPower,Price,166.79999999999995
+Round,12,Asset,GovBond 10Y,Price,191.0
+Round,12,Asset,Gold Futures,Price,137.0
+Round,12,Asset,BitNova,Price,265.0
+Round,12,Player,Player1,Value,500,Cash,500
+Round,12,Player,Player2,Value,471.66666666666674,Cash,337.33333333333337
+Round,12,Player,Player3,Value,430.73333333333335,Cash,156.73333333333335
+Round,12,Player,Player4,Value,243.25,Cash,106.25
+Round,12,Player,MarketMaker,Value,9931.38333333333,Cash,8587.58333333333
+Round,13,Asset,TechCorp,Price,334.33333333333337
+Round,13,Asset,EcoPower,Price,526.8
+Round,13,Asset,GovBond 10Y,Price,64.33333333333334
+Round,13,Asset,Gold Futures,Price,392.0
+Round,13,Asset,BitNova,Price,1
+Round,13,Player,Player1,Value,500,Cash,500
+Round,13,Player,Player2,Value,671.6666666666667,Cash,337.33333333333337
+Round,13,Player,Player3,Value,1195.7333333333333,Cash,19.73333333333335
+Round,13,Player,Player4,Value,243.25,Cash,243.25
+Round,13,Player,MarketMaker,Value,9355.716666666664,Cash,8362.916666666664
+Round,14,Asset,TechCorp,Price,1
+Round,14,Asset,EcoPower,Price,814.8
+Round,14,Asset,GovBond 10Y,Price,26.333333333333343
+Round,14,Asset,Gold Futures,Price,596.0
+Round,14,Asset,BitNova,Price,1
+Round,14,Player,Player1,Value,500,Cash,500
+Round,14,Player,Player2,Value,338.33333333333337,Cash,337.33333333333337
+Round,14,Player,Player3,Value,1807.7333333333333,Cash,19.73333333333335
+Round,14,Player,Player4,Value,243.25,Cash,243.25
+Round,14,Player,MarketMaker,Value,9244.38333333333,Cash,8372.916666666664
+Round,15,Asset,TechCorp,Price,1
+Round,15,Asset,EcoPower,Price,1174.8
+Round,15,Asset,GovBond 10Y,Price,216.33333333333334
+Round,15,Asset,Gold Futures,Price,341.0
+Round,15,Asset,BitNova,Price,792.9999999999999
+Round,15,Player,Player1,Value,500,Cash,500
+Round,15,Player,Player2,Value,338.33333333333337,Cash,337.33333333333337
+Round,15,Player,Player3,Value,1042.7333333333333,Cash,19.73333333333335
+Round,15,Player,Player4,Value,243.25,Cash,243.25
+Round,15,Player,MarketMaker,Value,12370.38333333333,Cash,8382.916666666664
+Round,16,Asset,TechCorp,Price,417.6666666666667
+Round,16,Asset,EcoPower,Price,1534.8
+Round,16,Asset,GovBond 10Y,Price,343.0
+Round,16,Asset,Gold Futures,Price,596.0
+Round,16,Asset,BitNova,Price,1145.0
+Round,16,Player,Player1,Value,500,Cash,500
+Round,16,Player,Player2,Value,755.0,Cash,337.33333333333337
+Round,16,Player,Player3,Value,1807.7333333333333,Cash,19.73333333333335
+Round,16,Player,Player4,Value,243.25,Cash,243.25
+Round,16,Player,MarketMaker,Value,15128.033333333331,Cash,7519.766666666665
+Round,17,Asset,TechCorp,Price,551.0
+Round,17,Asset,EcoPower,Price,1390.8
+Round,17,Asset,GovBond 10Y,Price,495.0
+Round,17,Asset,Gold Futures,Price,529.7
+Round,17,Asset,BitNova,Price,1567.4
+Round,17,Player,Player1,Value,500,Cash,500
+Round,17,Player,Player2,Value,888.3333333333334,Cash,337.33333333333337
+Round,17,Player,Player3,Value,1496.4833333333336,Cash,437.08333333333337
+Round,17,Player,Player4,Value,243.25,Cash,243.25
+Round,17,Player,MarketMaker,Value,16666.916666666664,Cash,7112.416666666664
+Round,18,Asset,TechCorp,Price,1
+Round,18,Asset,EcoPower,Price,1534.8
+Round,18,Asset,GovBond 10Y,Price,267.0
+Round,18,Asset,Gold Futures,Price,359.70000000000005
+Round,18,Asset,BitNova,Price,1897.4
+Round,18,Player,Player1,Value,500,Cash,500
+Round,18,Player,Player2,Value,338.33333333333337,Cash,337.33333333333337
+Round,18,Player,Player3,Value,1156.4833333333336,Cash,437.08333333333337
+Round,18,Player,Player4,Value,243.25,Cash,243.25
+Round,18,Player,MarketMaker,Value,16778.916666666664,Cash,7122.416666666664
+Round,19,Asset,TechCorp,Price,1
+Round,19,Asset,EcoPower,Price,1822.8
+Round,19,Asset,GovBond 10Y,Price,419.0
+Round,19,Asset,Gold Futures,Price,94.5
+Round,19,Asset,BitNova,Price,1263.8000000000002
+Round,19,Player,Player1,Value,500,Cash,500
+Round,19,Player,Player2,Value,338.33333333333337,Cash,337.33333333333337
+Round,19,Player,Player3,Value,372.56666666666666,Cash,89.06666666666666
+Round,19,Player,Player4,Value,243.25,Cash,243.25
+Round,19,Player,MarketMaker,Value,15807.93333333333,Cash,7112.933333333331
+Round,20,Asset,TechCorp,Price,251.0
+Round,20,Asset,EcoPower,Price,1582.8
+Round,20,Asset,GovBond 10Y,Price,520.3333333333334
+Round,20,Asset,Gold Futures,Price,1
+Round,20,Asset,BitNova,Price,1703.8000000000002
+Round,20,Player,Player1,Value,500,Cash,500
+Round,20,Player,Player2,Value,588.3333333333334,Cash,337.33333333333337
+Round,20,Player,Player3,Value,92.06666666666666,Cash,89.06666666666666
+Round,20,Player,Player4,Value,243.25,Cash,243.25
+Round,20,Player,MarketMaker,Value,17957.083333333332,Cash,6285.283333333331
+Round,1,Asset,TechCorp,Price,266.66666666666663
+Round,1,Asset,EcoPower,Price,282.0
+Round,1,Asset,GovBond 10Y,Price,253.33333333333334
+Round,1,Asset,Gold Futures,Price,1
+Round,1,Asset,BitNova,Price,1
+Round,1,Player,Player1,Value,500,Cash,500
+Round,1,Player,Player2,Value,500,Cash,500
+Round,1,Player,Player3,Value,500,Cash,500
+Round,1,Player,Player4,Value,500,Cash,500
+Round,1,Player,MarketMaker,Value,9999.0,Cash,9999.0
+Round,2,Asset,TechCorp,Price,1266.6666666666665
+Round,2,Asset,EcoPower,Price,1
+Round,2,Asset,GovBond 10Y,Price,126.66666666666669
+Round,2,Asset,Gold Futures,Price,1
+Round,2,Asset,BitNova,Price,529.0000000000001
+Round,2,Player,Player1,Value,500,Cash,500
+Round,2,Player,Player2,Value,500,Cash,500
+Round,2,Player,Player3,Value,295.66666666666663,Cash,294.66666666666663
+Round,2,Player,Player4,Value,232.33333333333331,Cash,231.33333333333331
+Round,2,Player,MarketMaker,Value,9999.0,Cash,9999.0
+Round,3,Asset,TechCorp,Price,996.6666666666665
+Round,3,Asset,EcoPower,Price,1
+Round,3,Asset,GovBond 10Y,Price,41.166666666666686
+Round,3,Asset,Gold Futures,Price,1
+Round,3,Asset,BitNova,Price,1123.0
+Round,3,Player,Player1,Value,500,Cash,500
+Round,3,Player,Player2,Value,500,Cash,500
+Round,3,Player,Player3,Value,1050.4166666666665,Cash,11.583333333333314
+Round,3,Player,Player4,Value,232.33333333333331,Cash,231.33333333333331
+Round,3,Player,MarketMaker,Value,10561.0,Cash,9438.0
+Round,4,Asset,TechCorp,Price,1079.9999999999998
+Round,4,Asset,EcoPower,Price,217.0
+Round,4,Asset,GovBond 10Y,Price,193.16666666666669
+Round,4,Asset,Gold Futures,Price,1
+Round,4,Asset,BitNova,Price,573.0
+Round,4,Player,Player1,Value,500,Cash,500
+Round,4,Player,Player2,Value,500,Cash,500
+Round,4,Player,Player3,Value,1501.7499999999998,Cash,11.583333333333314
+Round,4,Player,Player4,Value,448.3333333333333,Cash,231.33333333333331
+Round,4,Player,MarketMaker,Value,10551.5,Cash,8898.5
+Round,5,Asset,TechCorp,Price,1496.6666666666665
+Round,5,Asset,EcoPower,Price,121.0
+Round,5,Asset,GovBond 10Y,Price,345.1666666666667
+Round,5,Asset,Gold Futures,Price,1
+Round,5,Asset,BitNova,Price,1365.0
+Round,5,Player,Player1,Value,500,Cash,500
+Round,5,Player,Player2,Value,500,Cash,500
+Round,5,Player,Player3,Value,1897.4166666666665,Cash,279.75
+Round,5,Player,Player4,Value,352.3333333333333,Cash,231.33333333333331
+Round,5,Player,MarketMaker,Value,11847.166666666666,Cash,8640.333333333334
+Round,6,Asset,TechCorp,Price,2096.6666666666665
+Round,6,Asset,EcoPower,Price,361.0
+Round,6,Asset,GovBond 10Y,Price,218.50000000000003
+Round,6,Asset,Gold Futures,Price,171.0
+Round,6,Asset,BitNova,Price,1805.0
+Round,6,Player,Player1,Value,500,Cash,500
+Round,6,Player,Player2,Value,500,Cash,500
+Round,6,Player,Player3,Value,2664.4166666666665,Cash,567.75
+Round,6,Player,Player4,Value,592.3333333333333,Cash,231.33333333333331
+Round,6,Player,MarketMaker,Value,13832.333333333334,Cash,7254.500000000001
+Round,7,Asset,TechCorp,Price,2496.6666666666665
+Round,7,Asset,EcoPower,Price,1
+Round,7,Asset,GovBond 10Y,Price,319.83333333333337
+Round,7,Asset,Gold Futures,Price,1
+Round,7,Asset,BitNova,Price,2069.0
+Round,7,Player,Player1,Value,500,Cash,500
+Round,7,Player,Player2,Value,500,Cash,500
+Round,7,Player,Player3,Value,2775.4166666666665,Cash,277.75
+Round,7,Player,Player4,Value,232.33333333333331,Cash,231.33333333333331
+Round,7,Player,MarketMaker,Value,14936.666666666668,Cash,7554.500000000001
+Round,8,Asset,TechCorp,Price,1896.6666666666665
+Round,8,Asset,EcoPower,Price,1
+Round,8,Asset,GovBond 10Y,Price,218.50000000000006
+Round,8,Asset,Gold Futures,Price,1
+Round,8,Asset,BitNova,Price,2333.0
+Round,8,Player,Player1,Value,500,Cash,500
+Round,8,Player,Player2,Value,500,Cash,500
+Round,8,Player,Player3,Value,2283.1666666666665,Cash,167.0
+Round,8,Player,Player4,Value,232.33333333333331,Cash,231.33333333333331
+Round,8,Player,MarketMaker,Value,14958.583333333334,Cash,6499.250000000001
+Round,9,Asset,TechCorp,Price,2296.6666666666665
+Round,9,Asset,EcoPower,Price,1
+Round,9,Asset,GovBond 10Y,Price,60.166666666666714
+Round,9,Asset,Gold Futures,Price,213.5
+Round,9,Asset,BitNova,Price,2003.0
+Round,9,Player,Player1,Value,500,Cash,500
+Round,9,Player,Player2,Value,500,Cash,500
+Round,9,Player,Player3,Value,1376.0,Cash,1314.8333333333333
+Round,9,Player,Player4,Value,232.33333333333331,Cash,231.33333333333331
+Round,9,Player,MarketMaker,Value,17249.416666666668,Cash,4350.416666666668
+Round,10,Asset,TechCorp,Price,2696.6666666666665
+Round,10,Asset,EcoPower,Price,1
+Round,10,Asset,GovBond 10Y,Price,1
+Round,10,Asset,Gold Futures,Price,417.5
+Round,10,Asset,BitNova,Price,1211.0
+Round,10,Player,Player1,Value,500,Cash,500
+Round,10,Player,Player2,Value,500,Cash,500
+Round,10,Player,Player3,Value,1316.8333333333333,Cash,1314.8333333333333
+Round,10,Player,Player4,Value,232.33333333333331,Cash,231.33333333333331
+Round,10,Player,MarketMaker,Value,16073.416666666668,Cash,4350.416666666668
+Round,11,Asset,TechCorp,Price,2963.333333333333
+Round,11,Asset,EcoPower,Price,1
+Round,11,Asset,GovBond 10Y,Price,1
+Round,11,Asset,Gold Futures,Price,594.3
+Round,11,Asset,BitNova,Price,1633.4
+Round,11,Player,Player1,Value,500,Cash,500
+Round,11,Player,Player2,Value,500,Cash,500
+Round,11,Player,Player3,Value,1316.8333333333333,Cash,1314.8333333333333
+Round,11,Player,Player4,Value,232.33333333333331,Cash,231.33333333333331
+Round,11,Player,MarketMaker,Value,19622.783333333333,Cash,2869.250000000001
+Round,12,Asset,TechCorp,Price,2663.333333333333
+Round,12,Asset,EcoPower,Price,1
+Round,12,Asset,GovBond 10Y,Price,1
+Round,12,Asset,Gold Futures,Price,764.3
+Round,12,Asset,BitNova,Price,2161.4
+Round,12,Player,Player1,Value,500,Cash,500
+Round,12,Player,Player2,Value,500,Cash,500
+Round,12,Player,Player3,Value,1792.4833333333333,Cash,1026.1833333333334
+Round,12,Player,Player4,Value,232.33333333333331,Cash,231.33333333333331
+Round,12,Player,MarketMaker,Value,22337.15,Cash,374.88333333333435
+Round,13,Asset,TechCorp,Price,3143.333333333333
+Round,13,Asset,EcoPower,Price,1
+Round,13,Asset,GovBond 10Y,Price,1
+Round,13,Asset,Gold Futures,Price,631.6999999999999
+Round,13,Asset,BitNova,Price,1633.4
+Round,13,Player,Player1,Value,500,Cash,500
+Round,13,Player,Player2,Value,500,Cash,500
+Round,13,Player,Player3,Value,1669.8833333333332,Cash,1036.1833333333334
+Round,13,Player,Player4,Value,232.33333333333331,Cash,231.33333333333331
+Round,13,Player,MarketMaker,Value,21808.95,Cash,1192.0833333333344
+Round,14,Asset,TechCorp,Price,3543.333333333333
+Round,14,Asset,EcoPower,Price,1
+Round,14,Asset,GovBond 10Y,Price,1
+Round,14,Asset,Gold Futures,Price,529.6999999999999
+Round,14,Asset,BitNova,Price,2161.4
+Round,14,Player,Player1,Value,500,Cash,500
+Round,14,Player,Player2,Value,500,Cash,500
+Round,14,Player,Player3,Value,1577.8833333333332,Cash,1046.1833333333334
+Round,14,Player,Player4,Value,232.33333333333331,Cash,231.33333333333331
+Round,14,Player,MarketMaker,Value,25392.95,Cash,1192.0833333333344
+Round,15,Asset,TechCorp,Price,3043.333333333333
+Round,15,Asset,EcoPower,Price,1
+Round,15,Asset,GovBond 10Y,Price,102.33333333333333
+Round,15,Asset,Gold Futures,Price,733.6999999999999
+Round,15,Asset,BitNova,Price,2689.4
+Round,15,Player,Player1,Value,500,Cash,500
+Round,15,Player,Player2,Value,500,Cash,500
+Round,15,Player,Player3,Value,1893.2166666666667,Cash,1056.1833333333334
+Round,15,Player,Player4,Value,232.33333333333331,Cash,231.33333333333331
+Round,15,Player,MarketMaker,Value,23132.749999999996,Cash,2537.2833333333347
+Round,16,Asset,TechCorp,Price,2743.333333333333
+Round,16,Asset,EcoPower,Price,1
+Round,16,Asset,GovBond 10Y,Price,1
+Round,16,Asset,Gold Futures,Price,835.6999999999999
+Round,16,Asset,BitNova,Price,2249.4
+Round,16,Player,Player1,Value,500,Cash,500
+Round,16,Player,Player2,Value,500,Cash,500
+Round,16,Player,Player3,Value,2631.333333333333,Cash,957.9333333333334
+Round,16,Player,Player4,Value,232.33333333333331,Cash,231.33333333333331
+Round,16,Player,MarketMaker,Value,23250.11666666667,Cash,41.91666666666811
+Round,17,Asset,TechCorp,Price,2343.333333333333
+Round,17,Asset,EcoPower,Price,1
+Round,17,Asset,GovBond 10Y,Price,1
+Round,17,Asset,Gold Futures,Price,665.6999999999999
+Round,17,Asset,BitNova,Price,1699.4
+Round,17,Player,Player1,Value,500,Cash,500
+Round,17,Player,Player2,Value,500,Cash,500
+Round,17,Player,Player3,Value,2301.333333333333,Cash,967.9333333333334
+Round,17,Player,Player4,Value,135.24999999999997,Cash,133.24999999999997
+Round,17,Player,MarketMaker,Value,19200.11666666667,Cash,41.91666666666811
+Round,18,Asset,TechCorp,Price,2493.333333333333
+Round,18,Asset,EcoPower,Price,1
+Round,18,Asset,GovBond 10Y,Price,115.00000000000001
+Round,18,Asset,Gold Futures,Price,1048.1999999999998
+Round,18,Asset,BitNova,Price,2293.4
+Round,18,Player,Player1,Value,500,Cash,500
+Round,18,Player,Player2,Value,500,Cash,500
+Round,18,Player,Player3,Value,3190.333333333333,Cash,977.9333333333334
+Round,18,Player,Player4,Value,249.25,Cash,133.24999999999997
+Round,18,Player,MarketMaker,Value,21882.11666666667,Cash,41.91666666666811
+Round,19,Asset,TechCorp,Price,2093.333333333333
+Round,19,Asset,EcoPower,Price,1
+Round,19,Asset,GovBond 10Y,Price,297.40000000000003
+Round,19,Asset,Gold Futures,Price,1136.6
+Round,19,Asset,BitNova,Price,2381.4
+Round,19,Player,Player1,Value,500,Cash,500
+Round,19,Player,Player2,Value,500,Cash,500
+Round,19,Player,Player3,Value,2997.2833333333333,Cash,1859.6833333333334
+Round,19,Player,Player4,Value,431.65,Cash,133.24999999999997
+Round,19,Player,MarketMaker,Value,19262.199999999997,Cash,217.33333333333462
+Round,20,Asset,TechCorp,Price,2493.333333333333
+Round,20,Asset,EcoPower,Price,154.60000000000002
+Round,20,Asset,GovBond 10Y,Price,419.00000000000006
+Round,20,Asset,Gold Futures,Price,1357.6
+Round,20,Asset,BitNova,Price,1959.0
+Round,20,Player,Player1,Value,500,Cash,500
+Round,20,Player,Player2,Value,500,Cash,500
+Round,20,Player,Player3,Value,4019.1833333333334,Cash,1149.3833333333334
+Round,20,Player,Player4,Value,645.0500000000001,Cash,490.45000000000005
+Round,20,Player,MarketMaker,Value,18592.733333333334,Cash,1904.4000000000012
