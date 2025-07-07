@@ -1,18 +1,18 @@
-# Market Makers & Mavericks 🃏📈
+# Market Makers & Mavericks 🃏
 
 A gamified financial market simulation using Python and Streamlit. Inspired by trading card games, this project lets you simulate rounds where bots interact with a dynamic market shaped by events, sentiment, and dice-based randomness.
 
-## 🔧 Features
+## Features
 - Real-time Streamlit dashboard
 - Market bots with personality types (risk-averse, aggressive, contrarian)
 - Order book and auction system
 - Market events, sentiment tracking, and asset volatility
 - Asset classes: stocks, bonds, commodities, crypto
 
-## 🚀 Live Demo
-👉 [Launch the App](https://yourname.streamlit.app) — *deploy via Streamlit Community Cloud*
+## Live Demo
+👉 [Launch the App](https://marketm-chzzn.streamlit.app/) — *deploy via Streamlit Community Cloud*
 
-## 🖥️ How to Run Locally
+## How to Run Locally
 ```bash
 git clone https://github.com/yourname/market-makers.git
 cd market-makers
@@ -20,7 +20,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📁 Project Structure
+## Project Structure
 ```
 .
 ├── app.py
