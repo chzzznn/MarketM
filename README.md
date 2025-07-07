@@ -10,7 +10,7 @@ A gamified financial market simulation using Python and Streamlit. Inspired by t
 - Asset classes: stocks, bonds, commodities, crypto
 
 ## Live Demo
-👉 [Launch the App](https://yourname.streamlit.app) — *deploy via Streamlit Community Cloud*
+👉 [Launch the App](https://marketm-chzzn.streamlit.app/) — *deploy via Streamlit Community Cloud*
 
 ## How to Run Locally
 ```bash
