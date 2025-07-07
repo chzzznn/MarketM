@@ -1,7 +1,7 @@
 import random
-from order_book import Order
-from sentiment import roll_sentiment, sentiment_multiplier
-from asset_classes import CryptoCard
+from src.order_book import Order
+from src.sentiment import roll_sentiment, sentiment_multiplier
+from src.asset_classes import CryptoCard
 
 class BaseBot:
     def __init__(self, player_id):

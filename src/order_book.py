@@ -6,7 +6,7 @@ class Order:
         self.player_id = player_id
         self.asset_name = asset_name
         self.price = price
-        self.quantity = quantity
+        self.quantity = int(quantity)
         self.is_buy = is_buy
 
 class OrderBook:

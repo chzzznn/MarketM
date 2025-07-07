@@ -1,11 +1,10 @@
 import random
 import streamlit as st  # Required if logging to st.session_state
-
-from dice import roll_dice_pool
-from sentiment import roll_sentiment
-from event_system import maybe_trigger_event
-from order_book import Order
-from risk_metrics import calculate_sharpe_ratio, calculate_volatility, calculate_exposure
+from src.dice import roll_dice_pool
+from src.sentiment import roll_sentiment
+from src.event_system import maybe_trigger_event
+from src.order_book import Order
+from src.risk_metrics import calculate_sharpe_ratio, calculate_volatility, calculate_exposure
 
 def run_simulation_round(assets, orderbook, portfolios=None, event=None):
     print("\n🔄 Simulating Market Round...")
